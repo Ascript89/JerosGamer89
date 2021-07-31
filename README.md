@@ -9,4 +9,4 @@ If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
