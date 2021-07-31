@@ -6,7 +6,6 @@ I also make cringe applications using the
 .NET framework, Visual Basic and C#.
 
 If you want to know more about me, visit
-
 [my website](https://ascript89.github.io)
 
 <a href=”https://twitter.com/TheRealJG89">![Jeros at Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
