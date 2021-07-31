@@ -8,5 +8,5 @@ I also make cringe applications using the
 If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
-<img height="60" src="https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
