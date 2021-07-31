@@ -8,7 +8,7 @@ I also make cringe applications using the
 If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
-<a href=”https://twitter.com/TheRealJG89"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter"> </a>
+<a href=”https://twitter.com/TheRealJG89"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter"></a>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true “Jeros' GitHub stats”)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula “Jeros' Top Languages”)
