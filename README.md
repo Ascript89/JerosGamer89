@@ -1,5 +1,5 @@
 # Hey! I'm JerosGamer 👋
-<img src="https://ascript89.github.io/assets/kris-pfp.png" align="right" height="150px" />
+<!--<img src="https://ascript89.github.io/assets/kris-pfp.png" align="right" height="150px" />-->
 I'm a newbie developer that makes awesome
 websites using HTML, CSS and a bit of JS.
 I also make cringe applications using the
