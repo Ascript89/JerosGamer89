@@ -9,6 +9,7 @@ If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
 ![playing](https://dev.discordprofiles.me/badge/playing/735128293254103061)
+![vscode](https://dev.discordprofiles.me/badge/vscode/735128293254103061)
 
 <p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true" /></p>
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
