@@ -8,7 +8,7 @@ I also make cringe applications using the
 If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
-![status](https://dev.discordprofiles.me/badge/status/190916650143318016?simple=true)
+![status](https://dev.discordprofiles.me/badge/status/735128293254103061?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/735128293254103061)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/735128293254103061)
 
