@@ -8,7 +8,7 @@ I also make cringe desktop applications using the
 If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)
+
 
 <!--
 ![status](https://dev.discordprofiles.me/badge/status/735128293254103061?simple=true)
@@ -16,5 +16,5 @@ If you want to know more about me, visit
 ![vscode](https://dev.discordprofiles.me/badge/vscode/735128293254103061)
 -->
 
-<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=ascript89&theme=dracula&show_icons=true&count_private=true" /></p>
+<p>[![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)</p>
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
