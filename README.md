@@ -8,7 +8,7 @@ I also make cringe desktop applications using the
 If you want to know more about me, visit
 [my website](https://ascript89.github.io)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/897557638131384340)](https://discord.com/users/735128293254103061)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/735128293254103061)](https://discord.com/users/735128293254103061)
 
 <!--
 ![status](https://dev.discordprofiles.me/badge/status/735128293254103061?simple=true)
