@@ -16,5 +16,5 @@ If you want to know more about me, visit
 ![vscode](https://dev.discordprofiles.me/badge/vscode/735128293254103061)
 -->
 
-<p>[![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascript89&theme=dracula" />
