@@ -10,5 +10,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerosajose&theme=dracula" />
-<iframe src="" ></iframe>
-[![Live For Speed status](https://www.lfsworld.net/isonline.JerosGamer88)]
+[![Live For Speed status](https://www.lfsworld.net/isonline.JerosGamer88)](https://lfs.net/)
