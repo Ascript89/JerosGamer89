@@ -8,7 +8,9 @@ Racing on LFS? ➡️ [![Live For Speed status](https://www.lfsworld.net/isonlin
 ![playing](https://dev.discordprofiles.me/badge/playing/735128293254103061)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/735128293254103061)
 -->
-<i>My Discord profile status</i>
-<i style="float:right;">Most used languages (pretty inaccurate but yeah)</i><br>
+<div style="display: flex; justify-content: space-between;">
+  <i>My Discord profile status</i>
+  <i>Most used languages (pretty inaccurate but yeah)</i>
+</div><br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerosajose&theme=dracula" />
