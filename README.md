@@ -12,4 +12,5 @@ Racing on LFS? ➡️ [![Live For Speed status](https://www.lfsworld.net/isonlin
 <p align="left">My Discord profile status</p>-->
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/735128293254103061)](https://discord.com/users/735128293254103061)
-<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerosajose&theme=dracula" />
+<img height="250px" align="right" src="https://data.typeracer.com/misc/badge?user=jerosgamer89" />
+<img height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerosajose&theme=dracula" />
